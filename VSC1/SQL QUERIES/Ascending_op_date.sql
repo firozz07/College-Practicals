@@ -1,5 +1,1 @@
  SELECT * FROM ACCOUNT_MASTER order BY OP_DATE asc; 
-
-
-
-
