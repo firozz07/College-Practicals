@@ -1,0 +1,1 @@
+select * from ACCOUNT_TRANSACTION WHERE TR_TYPE='W';
