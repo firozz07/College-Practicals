@@ -1,3 +1,4 @@
+package VSC1.Java;
 public class AddMatrix {
     public static void main(String[] args) {
         int [][] FirstMatrix = {{2, 3, 4}, {5, 7, 8}};
