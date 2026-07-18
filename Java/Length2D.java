@@ -1,5 +1,3 @@
-package Java;
-
 public class Length2D {
     public static void main(String[] args) {
         int [][]arr={
