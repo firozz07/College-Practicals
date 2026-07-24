@@ -1,4 +1,4 @@
-public class Palindrome2 {
+public class StringBuffers {
     public static void main(String[] args) {
         StringBuffer str=new StringBuffer("level");
         StringBuffer rev=new StringBuffer(str);
