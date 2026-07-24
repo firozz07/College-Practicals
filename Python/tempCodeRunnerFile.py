@@ -1,0 +1,1 @@
+print("the addition of the nums is : " ,add(a,b))
